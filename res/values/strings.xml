@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MusicApp</string>
+    <string name="action_settings">Settings</string>
+    <string name="inital_Time">0 min, 0 sec</string>
+    <string name="songName">Song Name</string>
+    <string name="imgDesc">img</string>
+    <string name="songDuration">Song Duration</string>
+
+</resources>
